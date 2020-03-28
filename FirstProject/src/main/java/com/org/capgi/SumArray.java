@@ -9,8 +9,9 @@ public class SumArray {
 		for(int i=0;i<arr.length;i++) {
 
 			sum+=arr[i];
-			System.out.println("Summation is "+sum);
+			
 		}
+		System.out.println("Summation is "+sum);
 
 }
 }
